@@ -60,7 +60,7 @@ yargs.command({
 
 })
 
-
+console.log('hello world')
 yargs.parse()
 
 // add, remove, read, list
